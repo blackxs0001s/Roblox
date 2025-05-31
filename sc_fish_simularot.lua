@@ -1,4 +1,5 @@
-﻿
+﻿local DisLib 			= loadstring(game:HttpGet "https://raw.githubusercontent.com/blackxs0001s/Roblox/refs/heads/main/discord")()
+
 local Players 			= game:GetService("Players")
 local localPlayer 		= Players.LocalPlayer
 local ArrPlayerNames 	= {}
